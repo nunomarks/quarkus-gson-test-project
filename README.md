@@ -1,6 +1,6 @@
-# getting-started project
+# Quarkus GSON test project
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+This project uses Quarkus, the Supersonic Subatomic Java Framework. This is a test project that replicates a problem with GSON.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
